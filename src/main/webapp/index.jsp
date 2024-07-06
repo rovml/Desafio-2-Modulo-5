@@ -4,6 +4,7 @@
     <%@include file="assets/html/head.jsp" %>
 <body>
     <%@include file="assets/html/header.jsp" %>
+    <h1> cambios git</h1>
 </body>
     <%@include file="assets/html/footer.jsp" %>
 </html>
