@@ -7,7 +7,7 @@
 --%>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-        <a class="navbar-brand text-white" href="#"><img src="./assets/images/sheraton.jpg" alt="" width="50px">Viajes Chile</a>
+        <a class="navbar-brand text-white" href="#"><img src="./assets/images/sheraton.jpg" alt="" width="100px">Hotel Sheraton</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -22,8 +22,8 @@
 </nav>
 <div class="div1 text-bg-dark p-5">
 <h1 id="sheraton" class="text-center text-white">Reservas Hotel Sheraton Miramar</h1>
-<h5 id="reservar" class="text-center text-white">Habitaciones disponibles</h5>
+<p id="reservar" class="text-center text-white">Habitaciones disponibles</p>
 </div>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+
 
